@@ -1,7 +1,7 @@
 package com.telusko.SpringJDBCEx.service;
 
 import com.telusko.SpringJDBCEx.model.Student;
-import com.telusko.SpringJDBCEx.re.StudentRepo;
+import com.telusko.SpringJDBCEx.repo.StudentRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
