@@ -36,7 +36,6 @@ public class StudentRepo {
             s.setName(rs.getString("name"));
             s.setMarks(rs.getInt("marks"));
             return s;
-
         });
     }
 }
